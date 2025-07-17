@@ -1,0 +1,8 @@
+# How to Make
+```bash
+# make for aarch64
+make ARCH=arm64
+
+# make for X86
+make
+```
